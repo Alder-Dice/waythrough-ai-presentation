@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 450" width="100%" height="100%">
+  <path d="M 260,70 C 350,50 430,110 430,210 C 430,310 330,390 220,380 C 120,370 130,260 160,180 C 190,100 170,90 260,70 Z" fill="#ff8780" />
+  <!-- Warning Shield / Digital Hazard -->
+  <path d="M 250,85 C 330,85 365,120 365,210 C 365,305 250,365 250,365 C 250,365 135,305 135,210 C 135,120 170,85 250,85 Z" fill="#ffffff" stroke="#ffffff" stroke-width="24" stroke-linejoin="round" />
+  <path d="M 250,100 C 315,100 345,130 345,210 C 345,290 250,345 250,345 C 250,345 155,290 155,210 C 155,130 185,100 250,100 Z" fill="#1d1d1b" />
+  <!-- Exclamation Mark -->
+  <line x1="250" y1="160" x2="250" y2="230" stroke="#ff8780" stroke-width="18" stroke-linecap="round" />
+  <circle cx="250" cy="270" r="10" fill="#ff8780" />
+</svg>

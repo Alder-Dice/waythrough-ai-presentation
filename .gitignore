@@ -1,0 +1,8 @@
+# Keep unencrypted source and build/test scripts local-only
+presentation-source.html
+encrypt.py
+test-runner.js
+verification-report.json
+image-prompts.json
+screenshots/
+.DS_Store

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 450" width="100%" height="100%">
+  <path d="M 240,70 C 340,50 420,110 430,210 C 440,310 350,380 250,370 C 150,360 140,280 160,200 C 180,120 160,90 240,70 Z" fill="#77c19c" />
+  <!-- Buffer -->
+  <path d="M 100,200 L 170,140 L 240,190 L 330,140 L 400,200 L 340,270 L 270,240 L 220,290 L 150,250 Z" fill="#ffffff" stroke="#ffffff" stroke-width="30" stroke-linejoin="round" />
+  <!-- Charcoal Clasp -->
+  <path d="M 110,210 L 180,155 L 235,195 L 210,245 L 160,245 Z" fill="#1d1d1b" />
+  <path d="M 390,210 L 320,155 L 245,210 L 270,255 L 330,245 Z" fill="#1d1d1b" />
+  <circle cx="250" cy="200" r="14" fill="#ffffff" />
+</svg>

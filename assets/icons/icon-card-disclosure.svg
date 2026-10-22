@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 450" width="100%" height="100%">
+  <path d="M 260,80 C 350,50 430,120 430,220 C 430,320 340,390 230,370 C 140,350 150,250 170,180 C 190,110 190,90 260,80 Z" fill="#ffcdca" />
+  <path d="M 120,170 L 260,110 L 260,290 L 120,230 Z" fill="#ffffff" stroke="#ffffff" stroke-width="30" stroke-linejoin="round" />
+  <path d="M 130,180 L 250,130 L 250,270 L 130,220 Z" fill="#1d1d1b" />
+  <rect x="95" y="180" width="40" height="40" rx="8" fill="#1d1d1b" stroke="#ffffff" stroke-width="8" />
+  <path d="M 160,230 L 180,310 L 210,310 L 195,245" fill="#1d1d1b" stroke="#ffffff" stroke-width="8" stroke-linejoin="round" />
+  <!-- Broadcast Arcs -->
+  <path d="M 290,160 C 315,180 315,220 290,240" fill="none" stroke="#1d1d1b" stroke-width="16" stroke-linecap="round" />
+  <path d="M 330,135 C 370,170 370,230 330,265" fill="none" stroke="#1d1d1b" stroke-width="16" stroke-linecap="round" />
+</svg>

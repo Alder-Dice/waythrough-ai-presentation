@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 450" width="100%" height="100%">
+  <path d="M 260,80 C 360,50 440,120 430,220 C 420,320 330,390 230,370 C 130,350 140,250 170,180 C 200,110 180,90 260,80 Z" fill="#ff8780" />
+  <!-- Buffer -->
+  <circle cx="250" cy="220" r="120" fill="#ffffff" stroke="#ffffff" stroke-width="24" />
+  <!-- Stylized Mask Silhouette in Charcoal -->
+  <path d="M 170,160 C 220,140 280,140 330,160 C 350,220 330,290 250,310 C 170,290 150,220 170,160 Z" fill="#1d1d1b" />
+  <!-- Cutout Eyes in White -->
+  <ellipse cx="210" cy="210" rx="20" ry="12" fill="#ffffff" />
+  <ellipse cx="290" cy="210" rx="20" ry="12" fill="#ffffff" />
+</svg>

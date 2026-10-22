@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 450" width="100%" height="100%">
+  <path d="M 270,80 C 370,60 440,130 430,230 C 420,330 330,390 230,370 C 130,350 140,250 170,180 C 200,110 180,90 270,80 Z" fill="#ffcfa5" />
+  <circle cx="250" cy="225" r="110" fill="#ffffff" stroke="#ffffff" stroke-width="24" />
+  <!-- Lightning Bolt Broken in Center -->
+  <polygon points="260,130 210,215 255,215 220,315 295,205 250,205" fill="#1d1d1b" />
+  <!-- Disconnect gap line -->
+  <line x1="160" y1="210" x2="340" y2="210" stroke="#ffffff" stroke-width="16" />
+</svg>

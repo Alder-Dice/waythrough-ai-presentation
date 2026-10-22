@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 450" width="100%" height="100%">
+  <path d="M 270,80 C 370,60 440,130 430,230 C 420,330 330,390 230,370 C 130,350 140,250 170,180 C 200,110 180,90 270,80 Z" fill="#ffcfa5" />
+  <rect x="130" y="110" width="170" height="230" rx="18" fill="#ffffff" stroke="#ffffff" stroke-width="24" stroke-linejoin="round" />
+  <rect x="140" y="120" width="150" height="210" rx="14" fill="#1d1d1b" />
+  <!-- Document Lines in White -->
+  <line x1="175" y1="165" x2="255" y2="165" stroke="#ffffff" stroke-width="12" stroke-linecap="round" />
+  <line x1="175" y1="205" x2="255" y2="205" stroke="#ffffff" stroke-width="12" stroke-linecap="round" />
+  <line x1="175" y1="245" x2="225" y2="245" stroke="#ffffff" stroke-width="12" stroke-linecap="round" />
+  <!-- Charcoal Quill Pen Interlocking -->
+  <path d="M 330,130 C 330,130 370,160 310,270 L 270,300 L 285,260 C 310,210 330,130 330,130 Z" fill="#1d1d1b" stroke="#ffffff" stroke-width="10" stroke-linejoin="round"/>
+</svg>
